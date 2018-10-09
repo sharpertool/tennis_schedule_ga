@@ -1,0 +1,24 @@
+{
+  "players": {
+    "men": [
+      {"name": "Jeff",    "ntrp": 4.5,"untrp": 4.6},
+      {"name": "Bill",    "ntrp": 4.0,"untrp": 4.1},
+      {"name": "Ed",      "ntrp": 3.5,"untrp": 3.9},
+      {"name": "Todd",    "ntrp": 3.5,"untrp": 3.7},
+      {"name": "Curtis",  "ntrp": 3.5,"untrp": 3.6},
+      {"name": "Mark",    "ntrp": 4.5,"untrp": 4.4},
+      {"name": "Rob",     "ntrp": 4.0,"untrp": 4.0},
+      {"name": "Randy",   "ntrp": 4.0,"untrp": 4.0}
+    ],
+    "women": [
+      {"name": "Jenny",   "ntrp": 4.0,"untrp": 4.2},
+      {"name": "Jan",     "ntrp": 4.0,"untrp": 4.0},
+      {"name": "Dawn",    "ntrp": 3.0,"untrp": 3.3},
+      {"name": "Kelly",   "ntrp": 4.0,"untrp": 4.1},
+      {"name": "Joy",     "ntrp": 3.5,"untrp": 3.8},
+      {"name": "Karen",   "ntrp": 3.5,"untrp": 3.9},
+      {"name": "Jess",    "ntrp": 3.5,"untrp": 3.4},
+      {"name": "Lauren",  "ntrp": 4.0,"untrp": 4.0}
+    ]
+  }
+}
